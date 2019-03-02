@@ -2,6 +2,7 @@
 baseURL = "https://localhost:1313/"
 languageCode = "fr-FR"
 title = "eduvelopers.org"
+publishDir = "docs"
 
 [params]
     # head theme color
