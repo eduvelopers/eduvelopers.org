@@ -1,0 +1,68 @@
+# baseURL = "https://www.eduvelopers.org/"
+baseURL = "https://localhost:1313/"
+languageCode = "fr-FR"
+title = "eduvelopers.org"
+
+[params]
+    # head theme color
+    theme_color = ""
+
+    # head description
+    # This is what appears on the preview when posting this site on Facebook for example
+    description = "Des logiciels libres pour l'éducation"
+
+    # head photo
+    # This is what appears on the preview when posting this site on Facebook for example
+    description_photo = "eduvelopers.jpg"
+
+    # favicon image (512x512px), place this in the static/img folder
+    favicon = "favicon.png"
+
+    # logo image (204x204px), place this in the static/img folder
+    # this appears on the top left of the navigation
+    logo = "logo.png"
+
+    # Email
+    email = "contact@eduvelopers.org"
+
+    # Facebook username
+    # facebook = ""
+
+    # Twitter username
+    # twitter = "asdf"
+
+    # Github username
+    github = "eduvelopers"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+
+    # Place this image in the static/img folder
+    avatar = "eduvelopers.jpg"
+    subtitle = "Nous développons des logiciels libres pour l'éducation."
+
+    # Each element in this array makes a new <p> tag
+    # You can write this text in markdown
+    hero_right = [
+    "**Vous aussi** ?  Rejoignez-nous !",
+    "Envoyez-nous un [mail](contact@eduvelopers.org) pour qu'on affiche votre projet.",
+    "Enseignant, parent, enfant : il est parfois difficile de se faire une idée des logiciels libres disponibles pour l'éducation.  Ce site a vocation à référencer les plus utiles, ainsi qu'à permettre à ces projets de trouver de nouveaux contributeurs.",
+    "Nous sommes aussi sur [GitHub](https://github.com/eduvelopers)."]
+
+    # resume = "presse.pdf"
+
+[params.process]
+    enable = true
+    title = "Du libre pour l'éducation"
+    subtitle = "À tester sans modération"
+
+[params.case_studies]
+    enable = true
+    title = "On a testé pour vous"
+    subtitle = "Et ça nous a plu."
+
+[params.footer]
+    enable = true
