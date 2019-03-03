@@ -1,5 +1,4 @@
-# baseURL = "https://www.eduvelopers.org/"
-baseURL = "https://localhost:1313/"
+baseURL = "https://www.eduvelopers.org/"
 languageCode = "fr-FR"
 title = "eduvelopers.org"
 publishDir = "docs"
