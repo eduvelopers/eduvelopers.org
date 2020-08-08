@@ -48,10 +48,10 @@ publishDir = "docs"
     # You can write this text in markdown
     hero_right = [
     "**Vous aussi** ?  Rejoignez-nous !",
-    "Envoyez-nous un [mail](mailto:contact@eduvelopers.org) pour qu'on affiche votre projet.",
-    "Enseignant, parent, enfant : il est parfois difficile de se faire une idée des logiciels libres disponibles pour l'éducation.  Ce site a vocation à référencer les plus utiles, ainsi qu'à permettre à ces projets de trouver de nouveaux contributeurs.",
-    "Nous sommes aussi sur [GitHub](https://github.com/eduvelopers)."]
-
+    "Soutenez Eduvelopers sur [github.com](https://github.com/eduvelopers/eduvelopers.org/stargazers)."
+    "Envoyez-nous un [mail](mailto:contact@eduvelopers.org) pour que nous affichions votre projet.",
+    "Enseignant, parent, enfant : il est souvent difficile de se faire une idée des logiciels libres disponibles pour l'éducation.  Ce site a vocation à référencer les plus utiles, ainsi qu'à permettre à ces projets de trouver de nouveaux contributeurs."]
+    
     # resume = "presse.pdf"
 
 [params.process]
