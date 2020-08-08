@@ -48,7 +48,7 @@ publishDir = "docs"
     # You can write this text in markdown
     hero_right = [
     "**Vous aussi** ?  Rejoignez-nous !",
-    "Envoyez-nous un [mail](contact@eduvelopers.org) pour qu'on affiche votre projet.",
+    "Envoyez-nous un [mail](mailto:contact@eduvelopers.org) pour qu'on affiche votre projet.",
     "Enseignant, parent, enfant : il est parfois difficile de se faire une idée des logiciels libres disponibles pour l'éducation.  Ce site a vocation à référencer les plus utiles, ainsi qu'à permettre à ces projets de trouver de nouveaux contributeurs.",
     "Nous sommes aussi sur [GitHub](https://github.com/eduvelopers)."]
 
