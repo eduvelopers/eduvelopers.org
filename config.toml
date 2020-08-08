@@ -50,7 +50,7 @@ publishDir = "docs"
     "**Vous aussi** ?  Rejoignez-nous !",
     "Soutenez Eduvelopers sur [github.com](https://github.com/eduvelopers/eduvelopers.org/stargazers)."
     "Envoyez-nous un [mail](mailto:contact@eduvelopers.org) pour que nous affichions votre projet.",
-    "Enseignant, parent, enfant : il est souvent difficile de se faire une idée des logiciels libres disponibles pour l'éducation.  Ce site a vocation à référencer les plus utiles, ainsi qu'à permettre à ces projets de trouver de nouveaux contributeurs."]
+    "**Enseignants, parents, élèves** : pour tous, il est difficile de se faire une idée des [logiciels libres](https://fr.wikipedia.org/wiki/Logiciel_libre) disponibles pour l'éducation.  Ce site a vocation à référencer les plus utiles, ainsi qu'à permettre à ces projets de trouver et financer de nouveaux contributeurs."]
     
     # resume = "presse.pdf"
 
