@@ -4,12 +4,14 @@ title: "Utilisation de XXX"
 description: "Un test d'utilisation de XXX."
 nav_heading: "Utilisation de XXX"
 thumbnail: "sugarizer.png"
-case_short_title: "Utilisation de XXX"
+case_short_title: "Utilisation à Saint-Ouen"
 case_title: "Utilisation de XXX"
-case_subtitle: "Un exemple d'utilisation de XXX"
-case_description: "Une description de ce que nous avons fait."
+case_subtitle: "Sugarizer en classe"
+case_description: "Retour d'expérience d'utilisation de la suite pédagogique Sugarizer avec les enseignants à Saint-Ouen et comment ils contribuent à son amélioration."
 case_feature_img: "logo.png"
 case_summary: "On a essayé Sugarizer et ça nous a plu !"
+case_URL: "https://sugarizer.org"
+case_follow_URL: "https://wiki.faire-ecole.org/wiki/Exemple_de_contribution_%C3%A0_Sugarizer"
 team: ["Développeur 1", "Développeur 2"]
 roles: ["Mainteneur", "Administrateur système"]
 methods: ["Extreme programming"]
