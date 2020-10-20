@@ -5,11 +5,7 @@
     <link>https://www.eduvelopers.org/</link>
     <description>Recent content on eduvelopers.org</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    
-	<atom:link href="https://www.eduvelopers.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-FR</language><atom:link href="https://www.eduvelopers.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Utilisation de XXX</title>
       <link>https://www.eduvelopers.org/sugarizer/</link>
